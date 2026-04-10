@@ -44,9 +44,9 @@ uv init
 uv sync
 
 ### 3. Running the Provisioner
-Once configured, use the Python orchestration script to manage your infrastructure.
-```bash
+### Once configured, use the Python orchestration script to manage your infrastructure.
 uv run main.py
+
 ```
 
 ---
